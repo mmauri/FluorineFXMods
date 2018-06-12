@@ -18,10 +18,8 @@
 */
 
 using System;
-using System.Collections;
 using System.Xml;
 using System.Xml.Serialization;
-using System.Xml.XPath;
 using System.Configuration;
 
 // Import log4net classes.
